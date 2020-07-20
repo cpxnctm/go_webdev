@@ -44,5 +44,7 @@ func main() {
 	}
 	info(sq)
 	info(ci)
+	fmt.Println(sq.area())
+	fmt.Println(ci.area())
 
 }
